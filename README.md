@@ -1,14 +1,24 @@
 # NetBeans OpenCart Plugin
 
 This is NetBeans plugin for OpenCart.
+It was originally developed for Netbeans 8.1.
+It will install in Netbeans 10.0, but functionality has not been fully tested.
+
+## How to install
+
+To install this version, you will only need the file build/org-netbeans-modules-php-opencart.nbm
+In Netbeans, go to Tools > Plugins > Downloaded, and select Add Plugins.
+Select the nbm file, and click install.
+
+If changes are made to the source files, you will need to re-compile to update the nbm file.
 
 ## How to enable
 
 `enabled` option is unchecked as default. Please check it on `Project Properties > Frameworks > OpenCart 2`
 
 ## Environment
-- NetBeans 8.1+
-- OpenCart 2.x
+- NetBeans 8.1, 10.0
+- OpenCart 2.x, 3.x
 
 ## Features
 - badge icon

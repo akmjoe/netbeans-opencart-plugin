@@ -50,6 +50,14 @@
                     </run-dependency>
                 </dependency>
                 <dependency>
+                    <code-name-base>org.netbeans.modules.csl.types</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <release-version>1</release-version>
+                    </run-dependency>
+                </dependency>
+                <dependency>
                     <code-name-base>org.netbeans.modules.editor</code-name-base>
                     <build-prerequisite/>
                     <compile-dependency/>
@@ -91,7 +99,6 @@
                     <compile-dependency/>
                     <run-dependency>
                         <release-version>1</release-version>
-                        <specification-version>2.2.1.43.1</specification-version>
                     </run-dependency>
                 </dependency>
                 <dependency>
@@ -100,7 +107,6 @@
                     <compile-dependency/>
                     <run-dependency>
                         <release-version>1</release-version>
-                        <specification-version>1.38.1</specification-version>
                     </run-dependency>
                 </dependency>
                 <dependency>
@@ -109,7 +115,6 @@
                     <compile-dependency/>
                     <run-dependency>
                         <release-version>2</release-version>
-                        <specification-version>1.61.1.1</specification-version>
                     </run-dependency>
                 </dependency>
                 <dependency>
@@ -229,7 +234,6 @@
                     <build-prerequisite/>
                     <compile-dependency/>
                     <run-dependency>
-                        <specification-version>6.37.1</specification-version>
                     </run-dependency>
                 </dependency>
                 <dependency>
@@ -325,7 +329,6 @@
                     <build-prerequisite/>
                     <compile-dependency/>
                     <run-dependency>
-                        <specification-version>6.73.1</specification-version>
                     </run-dependency>
                 </dependency>
             </module-dependencies>
