@@ -3,6 +3,7 @@ AutoUpdate-Show-In-Client: true
 OpenIDE-Module: org.netbeans.modules.php.opencart
 OpenIDE-Module-Layer: org/netbeans/modules/php/opencart/resources/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/php/opencart/Bundle.properties
+OpenIDE-Module-Needs: org.netbeans.api.templates.wizard, javax.script.ScriptEngine.freemarker
 OpenIDE-Module-Specification-Version: 0.1
 OpenIDE-Module-Install: org/netbeans/modules/php/opencart/OpenCartModuleInstall.class
 
